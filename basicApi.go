@@ -8,7 +8,7 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-func main() {
+func API() {
 	router := gin.Default()
 
 	router.GET("/api/data", func(c *gin.Context) {
