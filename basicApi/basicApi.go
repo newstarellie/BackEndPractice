@@ -1,3 +1,5 @@
+// go run basicApi.go
+
 package main
 
 import (
